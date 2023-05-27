@@ -40,10 +40,10 @@ $result = mysqli_fetch_all($query, MYSQLI_ASSOC);
                     <li><a href="#" class="nav-link pt-3">
                             <h4 class="text-white ">Home</h4>
                         </a> </li>
-                    <li><a href="/furniture_store/aboutus.php" class="nav-link pt-3">
+                    <li><a href="/eduwork-studi-kasus/aboutus.php" class="nav-link pt-3">
                             <h4 class="text-white">About</h4>
                         </a> </li>
-                    <li><a href="/furniture_store/contactus.php" class="nav-link pt-3">
+                    <li><a href="/eduwork-studi-kasus/contactus.php" class="nav-link pt-3">
                             <h4 class="text-white">Kontak</h4>
                         </a> </li>
 
